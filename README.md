@@ -10,4 +10,4 @@ Multi-functional Decoder made by Da3monic Games
 * Basic usage: import required modules, download Da3-Decoder, open Decoder-main.py with Python, and you are good to go. 
 
 ## More Description
-* This program has only been tested on MacOS 10.14.1 with Python version 3.7. Please report to [Da3monic Game Support](da3monicgames@gmail.com) if there's any error.
+* This program has only been tested on MacOS 10.14.1. Please report to [Da3monic Game Support](da3monicgames@gmail.com) if there's any error.
